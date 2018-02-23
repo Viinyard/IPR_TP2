@@ -1,0 +1,4 @@
+tp/rmi/serveur/ChatServeur.class
+tp/rmi/client/ChatClient.class
+tp/rmi/common/ChatRemote.class
+tp/rmi/serveur/ChatRemoteImpl.class
